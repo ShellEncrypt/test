@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import telebot
 
 bot = telebot.TeleBot('1797122575:AAF6U8L8Wpq61p0VnjpSiZ6vSa7rNjVdhd8')
